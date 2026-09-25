@@ -1,1 +1,1 @@
-# Projet-universitaire-de-mod-lisation-d-un-processus-al-atoire-en-Python
+# Projet-universitaire-de-modelisation-d-un-processus-aleatoire-en-Python
